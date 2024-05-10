@@ -1,0 +1,2 @@
+id,name,artist_id,genre,duration,lyrics,date_added,is_approved,album_id
+1,song1,2,genre1,4:00,lyrics1,17-04-2024,True,1
